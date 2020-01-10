@@ -11,4 +11,8 @@ Contains:
 Contains: 
   - Collaborative Filtering based recommender
   
- 
+ # Team
+Jules Asfresne Jelena Simeunovic André Clerc Aurélien Kinet
+
+# License
+The content is released under the terms of the MIT License.
