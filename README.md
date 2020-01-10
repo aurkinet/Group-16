@@ -10,7 +10,8 @@ Contains:
   - Data Exploitation with recommender based on clustering
 ## Model_based_recommendation 
 Contains: 
-  - Collaborative Filtering based recommender
+  - Collaborative Filtering based recommender(use keras)
+  
   
  # Team
 Jules Asfresne Jelena Simeunovic André Clerc Aurélien Kinet
