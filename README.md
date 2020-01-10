@@ -2,7 +2,8 @@
 
 This code use Kaggle's Movielens 100k Dataset, and tackle the recommendation problem through a graph-based approach. As a result, it is initially exploring both user data and movie data graphs to gain some insights
 
-## Merged_final_final
+## Movie_Recommendation_System
+
 Contains: 
   - Data Acquisition
   - Data Exploration
